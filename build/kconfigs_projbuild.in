@@ -1,0 +1,6 @@
+source "D:/ESP32_IDF_ESPRESSIF/components/bootloader/Kconfig.projbuild"
+source "D:/ESP32_IDF_ESPRESSIF/components/esp_app_format/Kconfig.projbuild"
+source "D:/ESP32_IDF_ESPRESSIF/components/esp_rom/Kconfig.projbuild"
+source "D:/ESP32_IDF_ESPRESSIF/components/esptool_py/Kconfig.projbuild"
+source "D:/ESP32_IDF_ESPRESSIF/components/partition_table/Kconfig.projbuild"
+source "D:/ESP32_IDF_ESPRESSIF/Projects/SD Card/component/sensor_1/Kconfig.projbuild"
